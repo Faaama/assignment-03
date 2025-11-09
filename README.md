@@ -9,8 +9,8 @@ URL for the Video Demonstration: https://www.youtube.com/watch?v=SZe065mYeLk
 Requirements
 ========================================================================================================
 Must have IntelliJ IDE,
-Ensure the Project JDK is set before running,
-Use the provided "assignment3database.sql" file to create a student table with initial data in pgAdmin4
+Use the provided "assignment3database.sql" file to create a student table with initial data in pgAdmin4,
+Have the project saved from this git repository
 
 
 Steps to Compile and Run Application
